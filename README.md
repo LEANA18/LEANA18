@@ -21,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leana18&show_icons=true&locale=en" alt="leana18" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leana18&" alt="leana18" /></p>
+[![@leanaison's Holopin badges](https://holopin.me/leanaison)](https://holopin.io/@leanaison)
