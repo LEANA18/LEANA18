@@ -82,7 +82,8 @@
 <br/>
 
 <div align="center">
-##[![An image of @leanaison's Holopin badges](https://holopin.me/leanaison) ](https://holopin.io/@leanaison)
+##
+[![An image of @leanaison's Holopin badges](https://holopin.me/leanaison) ](https://holopin.io/@leanaison)
 
 </div>
 
