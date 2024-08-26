@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leana18&" alt="leana18" /></p>
 
-##[![An image of @leanaison's Holopin badges](https://holopin.me/leanaison) ](https://holopin.io/@leanaison)
+[![An image of @leanaison's Holopin badges](https://holopin.me/leanaison) ](https://holopin.io/@leanaison)
