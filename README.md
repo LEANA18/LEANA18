@@ -12,7 +12,7 @@
  
 
  
- 🌱 I’m currently learning **Web Development**
+ 🌱 I’m currently learning **Machine Learning**
 
 
 
