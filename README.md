@@ -82,7 +82,7 @@
 <br/>
 
 <div align="center">
- <h2> Badges </h2>
+ <h2>Hacktoberfest Badges </h2>
  
 ![An image of @leanaison's Holopin badges](https://holopin.me/leanaison) 
 
